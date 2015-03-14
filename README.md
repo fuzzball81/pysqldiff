@@ -1,2 +1,2 @@
 # pysqldiff
-A python based SQL diff tool based on SQLAlchemy
+A python based SQL diff tool using SQLAlchemy
